@@ -4,7 +4,9 @@ https://github.com/shane-pearson/pwa-text-editor
 
 #### Text Editor:
 
-Deployed site: 
+Deployed site: https://shanes-wpa-text-editor.herokuapp.com/
+
+[Deployed Site](/server/dist/assets/images/Untitled.jpg)
 
 ### Installation: The first step was making sure web pack was installed and any dependencies I would need. Then I updated the database and install java script files to include the logic that would make this application run properly. 
 
